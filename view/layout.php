@@ -57,7 +57,7 @@ var_dump($_SESSION['utilisateur']);
                                 ?>
                                 <a href="index.php?ctrl=security&action=loginForm">Connexion</a>
                                 <a href="index.php?ctrl=security&action=registerForm">Inscription</a>
-                                <a href="index.php?ctrl=forum&action=index">Liste des catégories</a>
+                                <a href="index.php?ctrl=forum&action=index">Catégories</a>
                                
 
                                
@@ -82,7 +82,10 @@ var_dump($_SESSION['utilisateur']);
             <footer>
                 <div class="footer">
                    <p>&copy; <?= date_create("now")->format("Y") ?> - <a href="#">Règlement du forum</a> - <a href="#">Mentions légales</a></p>
+                   <div class="footer-icons"><p>Suivez-nous</p><i class="fa-brands fa-facebook fa-lg" style="color: #a7a8aa;"></i>
+                   <i class="fa-brands fa-instagram fa-lg" style="color: #a7a8aa;"></i></div>
                 </div>
+                
             </footer>
         </div>
         <script

@@ -34,6 +34,7 @@ body{
     z-index: 1000;
     border-bottom: 1px solid #ffffff;
     font-family:"Poppins", serif;
+    
   }
 
   .nav-link a{
@@ -123,16 +124,19 @@ body{
 
 
 .rectangle-container {
-    display: flex;
-    justify-content:space-around;
-    gap: 5px; 
+    
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); 
+    gap: 10px; 
     
 }
 
 .rectangle {
-    width: 500px;
-    height: 250px;
-    background-color: #ddeeff;
+    width: 100%;
+    height: 200px;
+    background-color: #a8b9ca;
+    box-shadow: inset 0 4px 10px rgba(0, 0, 0, 0.5); 
+
     
    
     display: flex;
@@ -171,7 +175,7 @@ body{
 .joinus-banner {
     width: 100%; 
     height: 200px; 
-    background-image: url('/img/mulhollanddrivebanner.jpg'); 
+    background-image: url('public\img\mulhollanddrivebanner.jpg'); 
     background-size: cover;
     background-position: center;
     display: flex;
@@ -282,6 +286,12 @@ body{
 }
 
 
+.alignement{
+    display: flex;
+    justify-content: space-between;
+}
+
+
 .posterListes {
     display: flex;
     gap: 0; 
@@ -326,16 +336,20 @@ body{
 
 
 
-
-
 .footer {
     background-color: #2c3440; 
-    padding: 1.5rem 1.5rem;
+    padding: 1.5rem;
     display: flex;
-    justify-content: space-between;
-    align-items: center;
+    justify-content: space-between; /* Sépare le texte et les icônes */
+    align-items: center; /* Alignement vertical */
     box-shadow: 0px 4px 9px rgba(0, 0, 0, 0.1); 
     position: sticky;
-    top: 0;
+    bottom: 0; /* Correction : le footer est en bas */
     z-index: 1000;
-  }
+}
+
+.footer-icons {
+    display: flex;
+    gap: 15px; /* Espace entre les icônes */
+}
+

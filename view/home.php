@@ -132,7 +132,8 @@
          
         </div>
         <div class="movie">
-            <img src="public\img\thesubstance.jpg" alt="Movie 4">
+        <a href="deatilFilm.php">
+            <img src="public\img\thesubstance.jpg" alt="Movie 4"></a>
             <p class="movie-title">The Substance</p>
             <div class="rating">
         <span class="star">&#9733;</span>
@@ -145,7 +146,8 @@
          
         </div>
         <div class="movie">
-            <img src="public\img\themonkey.jpg" alt="Movie 3">
+        <a href="deatilFilm.php">
+            <img src="public\img\themonkey.jpg" alt="Movie 3"></a>
             <p class="movie-title">The Monkey</p>
             <div class="rating">
         <span class="star">&#9733;</span>
@@ -158,7 +160,8 @@
          
         </div>
         <div class="movie">
-            <img src="public\img\superman.jpg" alt="Movie 4">
+        <a href="deatilFilm.php">
+          <img src="public\img\superman.jpg" alt="Movie 4"></a>
             <p class="movie-title">Superman</p>
             <div class="rating">
         <span class="star">&#9733;</span>
@@ -171,7 +174,8 @@
          
         </div>
         <div class="movie">
-            <img src="public\img\lilostitch.jpg" alt="Movie 3">
+        <a href="deatilFilm.php">
+            <img src="public\img\lilostitch.jpg" alt="Movie 3"></a>
             <p class="movie-title">Lilo & Stitch</p>
             <div class="rating">
         <span class="star">&#9733;</span>
@@ -184,7 +188,8 @@
          
         </div>
         <div class="movie">
-            <img src="public\img\captainamericabravenewworld.jpg" alt="Movie 4">
+        <a href="deatilFilm.php">
+            <img src="public\img\captainamericabravenewworld.jpg" alt="Movie 4"></a>
             <p class="movie-title">Captain America Brave New World</p>
             <div class="rating">
         <span class="star">&#9733;</span>
@@ -360,7 +365,9 @@
     <div class="rectangle"><svg xmlns="http://www.w3.org/2000/svg" height="48px" viewBox="0 -960 960 960" width="48px" fill="#2c3440"><path d="M480.12-330q70.88 0 120.38-49.62t49.5-120.5q0-70.88-49.62-120.38T479.88-670Q409-670 359.5-620.38T310-499.88q0 70.88 49.62 120.38t120.5 49.5Zm-.36-58q-46.76 0-79.26-32.74-32.5-32.73-32.5-79.5 0-46.76 32.74-79.26 32.73-32.5 79.5-32.5 46.76 0 79.26 32.74 32.5 32.73 32.5 79.5 0 46.76-32.74 79.26-32.73 32.5-79.5 32.5Zm.24 188q-146 0-264-83T40-500q58-134 176-217t264-83q146 0 264 83t176 217q-58 134-176 217t-264 83Zm0-300Zm-.17 240Q601-260 702.5-325.5 804-391 857-500q-53-109-154.33-174.5Q601.34-740 480.17-740T257.5-674.5Q156-609 102-500q54 109 155.33 174.5Q358.66-260 479.83-260Z"/></svg>
     <p>Watchlist</div>
     <div class="rectangle"><svg xmlns="http://www.w3.org/2000/svg" height="48px" viewBox="0 -960 960 960" width="48px" fill="#2c3440"><path d="M290-620v-60h550v60H290Zm0 170v-60h550v60H290Zm0 170v-60h550v60H290ZM150-620q-12 0-21-9t-9-21.5q0-12.5 9-21t21.5-8.5q12.5 0 21 8.62 8.5 8.63 8.5 21.38 0 12-8.62 21-8.63 9-21.38 9Zm0 170q-12 0-21-9t-9-21.5q0-12.5 9-21t21.5-8.5q12.5 0 21 8.62 8.5 8.63 8.5 21.38 0 12-8.62 21-8.63 9-21.38 9Zm0 170q-12 0-21-9t-9-21.5q0-12.5 9-21t21.5-8.5q12.5 0 21 8.62 8.5 8.63 8.5 21.38 0 12-8.62 21-8.63 9-21.38 9Z"/></svg>
-    <p>Créez des listes de films</p>
+    <p>Créez des listes de films</p></div>
+    <div class="rectangle"><svg xmlns="http://www.w3.org/2000/svg" height="40px" viewBox="0 -960 960 960" width="40px" fill="#000"><path d="m480-120.67-46.67-42q-104.18-95.08-172.25-164.04Q193-395.67 152.67-450.17q-40.34-54.5-56.5-99.16Q80-594 80-640q0-91.44 61.33-152.72 61.34-61.28 152-61.28 55.34 0 103.34 25.33 48 25.34 83.33 72.67 39.33-49.33 86.33-73.67 47-24.33 100.34-24.33 90.66 0 152 61.28Q880-731.44 880-640q0 46-16.17 90.67-16.16 44.66-56.5 99.16-40.33 54.5-108.41 123.46-68.07 68.96-172.25 164.04l-46.67 42Zm0-88.66q99.49-90.67 163.75-155.5Q708-429.67 745.67-478.17q37.66-48.5 52.66-86.42t15-75.31q0-64.1-41.33-105.77-41.33-41.66-105.18-41.66-50.02 0-92.59 29.83-42.56 29.83-65.56 81.5h-58q-22.34-51-64.9-81.17-42.57-30.16-92.59-30.16-63.85 0-105.18 41.66-41.33 41.67-41.33 105.88 0 37.46 15 75.62 15 38.17 52.66 87Q252-428.33 316.67-363.83q64.66 64.5 163.33 154.5Zm0-289Z"/></svg>
+        <p>Montrez votre intérêt</div>
 </div>
 
 
@@ -408,10 +415,12 @@
 
 <section class="section">
         <div class="movie-gallery h3">
+            <div class="alignement">
            <a href="film.php">
             <h3>Dernières listes de films</h3>
             <a href="dernièresListesFilms.php"><svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#2c3440"><path d="M440-280h80v-160h160v-80H520v-160h-80v160H280v80h160v160Zm40 200q-83 0-156-31.5T197-197q-54-54-85.5-127T80-480q0-83 31.5-156T197-763q54-54 127-85.5T480-880q83 0 156 31.5T763-763q54 54 85.5 127T880-480q0 83-31.5 156T763-197q-54 54-127 85.5T480-80Zm0-80q134 0 227-93t93-227q0-134-93-227t-227-93q-134 0-227 93t-93 227q0 134 93 227t227 93Zm0-320Z"/></svg>
             </a>
+          </div>
     </div>
     <div class="separator"></div>
   
