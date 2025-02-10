@@ -21,72 +21,184 @@
 
 <div class="main-container">
     <section class="section">
-    <div class="movie-gallery h3">
-        <h3>Films les mieux notés</h3>
+        <div class="movie-gallery h3">
+           <a href="film.php">
+            <h3>Films les mieux notés</h3>
+            </a>
     </div>
     <div class="separator"></div>
 
     <div class="movie-gallery" class="poppins-light">
 
         <div class="movie">
-            <img src="public\img\companion.jpg" alt="Movie 1">
+        <a href="detailFilm.php">
+        <img src="public\img\companion.jpg" alt="Movie 1"></a>
             <p class="movie-title">Companion</p>
+            <div class="rating">
+        <span class="star">&#9733;</span>
+        <span class="star">&#9733;</span>
+        <span class="star">&#9733;</span>
+        <span class="star">&#9733;</span>
+        <span class="star">&#9734;</span>
+    </div>
+    <p class="rating-text">Note: 4/5</p> <!-- Affiche la note sous forme de texte -->
+         
             
             
 
         </div>
         <div class="movie">
-            <img src="public\img\nosferatu.jpg" alt="Movie 2">
+            <a href="detailFilm.php">
+            <img src="public\img\nosferatu.jpg" alt="Movie 2"></a>
             <p class="movie-title">Nosferatu</p>
+            <div class="rating">
+        <span class="star">&#9733;</span>
+        <span class="star">&#9733;</span>
+        <span class="star">&#9733;</span>
+        <span class="star">&#9733;</span>
+        <span class="star">&#9734;</span>
+    </div>
+    <p class="rating-text">Note: 4/5</p> <!-- Affiche la note sous forme de texte -->
+         
         </div>
         <div class="movie">
-            <img src="public\img\28dayslater.jpg" alt="Movie 3">
-            <p class="movie-title">The Conjuring</p>
+            <a href="detailfilm.php">
+            <img src="public\img\28dayslater.jpg" alt="Movie 3"></a>
+            <p class="movie-title">28 days later</p>
+            <div class="rating">
+        <span class="star">&#9733;</span>
+        <span class="star">&#9733;</span>
+        <span class="star">&#9733;</span>
+        <span class="star">&#9733;</span>
+        <span class="star">&#9734;</span>
+    </div>
+    <p class="rating-text">Note: 5/5</p> <!-- Affiche la note sous forme de texte -->
+         
         </div>
         <div class="movie">
-            <img src="public\img\babygirl.jpg" alt="Movie 4">
-            <p class="movie-title">Scream</p>
+            <a href="detailFilm.php">
+            <img src="public\img\babygirl.jpg" alt="Movie 4"></a>
+            <p class="movie-title">Babygirl</p>
+            <div class="rating">
+        <span class="star">&#9733;</span>
+        <span class="star">&#9733;</span>
+        <span class="star">&#9733;</span>
+        <span class="star">&#9733;</span>
+        <span class="star">&#9734;</span>
+    </div>
+     <p class="rating-text">Note: 4/5</p> <!-- Affiche la note sous forme de texte -->
+         
         </div>
         <div class="movie">
-            <img src="public\img\longlegs.jpg" alt="Movie 1">
-            <p class="movie-title">Halloween</p>
+            <a href="detailFilm.php">
+            <img src="public\img\longlegs.jpg" alt="Movie 1"></a>
+            <p class="movie-title">Longlegs</p>
+            <div class="rating">
+        <span class="star">&#9733;</span>
+        <span class="star">&#9733;</span>
+        <span class="star">&#9733;</span>
+        <span class="star">&#9733;</span>
+        <span class="star">&#9734;</span>
+    </div>
+     <p class="rating-text">Note: 4/5</p> <!-- Affiche la note sous forme de texte -->
+         
         </div>
         <div class="movie">
-            <img src="public\img\dawnofthedead.jpg" alt="Movie 2">
-            <p class="movie-title">Talk To Me</p>
+            <a href="detailFilm.php">
+            <img src="public\img\dawnofthedead.jpg" alt="Movie 2"></a>
+            <p class="movie-title">Dawn Of The Dead</p>
+            <div class="rating">
+        <span class="star">&#9733;</span>
+        <span class="star">&#9733;</span>
+        <span class="star">&#9733;</span>
+        <span class="star">&#9733;</span>
+        <span class="star">&#9733;</span>
+    </div>
+     <p class="rating-text">Note: 5/5</p> <!-- Affiche la note sous forme de texte -->
+         
         </div>
         <div class="movie">
-            <img src="public\img\mulhollanddrive.jpg" alt="Movie 3">
-            <p class="movie-title">The Conjuring</p>
+            <a href="deatilFilm.php">
+            <img src="public\img\mulhollanddrive.jpg" alt="Movie 3"></a>
+            <p class="movie-title">Mulholland Drive</p>
+            <div class="rating">
+        <span class="star">&#9733;</span>
+        <span class="star">&#9733;</span>
+        <span class="star">&#9733;</span>
+        <span class="star">&#9733;</span>
+        <span class="star">&#9733;</span>
+    </div>
+     <p class="rating-text">Note: 5/5</p> <!-- Affiche la note sous forme de texte -->
+         
         </div>
         <div class="movie">
-            <img src="public\img\img_film\scream.jpg" alt="Movie 4">
-            <p class="movie-title">Scream</p>
+            <img src="public\img\thesubstance.jpg" alt="Movie 4">
+            <p class="movie-title">The Substance</p>
+            <div class="rating">
+        <span class="star">&#9733;</span>
+        <span class="star">&#9733;</span>
+        <span class="star">&#9733;</span>
+        <span class="star">&#9733;</span>
+        <span class="star">&#9734;</span>
+    </div>
+     <p class="rating-text">Note: 4/5</p> <!-- Affiche la note sous forme de texte -->
+         
         </div>
         <div class="movie">
-            <img src="public\img\img_film\the_conjuring.jpg" alt="Movie 3">
-            <p class="movie-title">The Conjuring</p>
+            <img src="public\img\themonkey.jpg" alt="Movie 3">
+            <p class="movie-title">The Monkey</p>
+            <div class="rating">
+        <span class="star">&#9733;</span>
+        <span class="star">&#9733;</span>
+        <span class="star">&#9733;</span>
+        <span class="star">&#9733;</span>
+        <span class="star">&#9733;</span>
+    </div>
+     <p class="rating-text">Note: 5/5</p> <!-- Affiche la note sous forme de texte -->
+         
         </div>
         <div class="movie">
-            <img src="public\img\img_film\scream.jpg" alt="Movie 4">
-            <p class="movie-title">Scream</p>
+            <img src="public\img\superman.jpg" alt="Movie 4">
+            <p class="movie-title">Superman</p>
+            <div class="rating">
+        <span class="star">&#9733;</span>
+        <span class="star">&#9733;</span>
+        <span class="star">&#9733;</span>
+        <span class="star">&#9733;</span>
+        <span class="star">&#9734;</span>
+    </div>
+     <p class="rating-text">Note: 4/5</p> <!-- Affiche la note sous forme de texte -->
+         
         </div>
         <div class="movie">
-            <img src="public\img\img_film\the_conjuring.jpg" alt="Movie 3">
-            <p class="movie-title">The Conjuring</p>
+            <img src="public\img\lilostitch.jpg" alt="Movie 3">
+            <p class="movie-title">Lilo & Stitch</p>
+            <div class="rating">
+        <span class="star">&#9733;</span>
+        <span class="star">&#9733;</span>
+        <span class="star">&#9733;</span>
+        <span class="star">&#9733;</span>
+        <span class="star">&#9734;</span>
+    </div>
+     <p class="rating-text">Note: 4/5</p> <!-- Affiche la note sous forme de texte -->
+         
         </div>
         <div class="movie">
-            <img src="public\img\img_film\scream.jpg" alt="Movie 4">
-            <p class="movie-title">Scream</p>
+            <img src="public\img\captainamericabravenewworld.jpg" alt="Movie 4">
+            <p class="movie-title">Captain America Brave New World</p>
+            <div class="rating">
+        <span class="star">&#9733;</span>
+        <span class="star">&#9733;</span>
+        <span class="star">&#9733;</span>
+        <span class="star">&#9733;</span>
+        <span class="star">&#9734;</span>
+    </div>
+     <p class="rating-text">Note: 4/5</p> <!-- Affiche la note sous forme de texte -->
+         
         </div>
-        <div class="movie">
-            <img src="public\img\img_film\the_conjuring.jpg" alt="Movie 3">
-            <p class="movie-title">The Conjuring</p>
-        </div>
-        <div class="movie">
-            <img src="public\img\img_film\scream.jpg" alt="Movie 4">
-            <p class="movie-title">Scream</p>
-        </div>
+        
+    
+    
         
         
     </div>
@@ -98,69 +210,125 @@
 
 
 <div class="movie-gallery h3">
-        <h3>Les nouveautés</h3>
+        <h3>Les plus "likés"</h3>
     </div>
     <div class="separator"></div>
     <div class="movie-gallery">
 
         <div class="movie">
-            <img src="public\img\img_film\halloween.jpg" alt="Movie 1">
-            <p class="movie-title">Halloween</p>
+        <img src="public\img\oppenheimer.jpg" alt="Movie 1">
+            <p class="movie-title">Oppenheimer</p>
+            <div class="like-container">
+            <svg xmlns="http://www.w3.org/2000/svg" height="20px" viewBox="0 -960 960 960" width="20px" fill="#EA3323"><path d="m480-144-50-45q-100-89-165-152.5t-102.5-113Q125-504 110.5-545T96-629q0-89 61-150t150-61q49 0 95 21t78 59q32-38 78-59t95-21q89 0 150 61t61 150q0 43-14 83t-51.5 89q-37.5 49-103 113.5T528-187l-48 43Zm0-97q93-83 153-141.5t95.5-102Q764-528 778-562t14-67q0-59-40-99t-99-40q-35 0-65.5 14.5T535-713l-35 41h-40l-35-41q-22-26-53.5-40.5T307-768q-59 0-99 40t-40 99q0 33 13 65.5t47.5 75.5q34.5 43 95 102T480-241Zm0-264Z"/></svg>
+            <p>1.500</p>
+            </div>
             
             
 
         </div>
         <div class="movie">
-            <img src="public\img\img_film\talk_to_me.jpg" alt="Movie 2">
+            <img src="public\img\pearl.jpg" alt="Movie 2">
+            <p class="movie-title">Pearl</p>
+            <div class="like-container">
+            <svg xmlns="http://www.w3.org/2000/svg" height="20px" viewBox="0 -960 960 960" width="20px" fill="#EA3323"><path d="m480-144-50-45q-100-89-165-152.5t-102.5-113Q125-504 110.5-545T96-629q0-89 61-150t150-61q49 0 95 21t78 59q32-38 78-59t95-21q89 0 150 61t61 150q0 43-14 83t-51.5 89q-37.5 49-103 113.5T528-187l-48 43Zm0-97q93-83 153-141.5t95.5-102Q764-528 778-562t14-67q0-59-40-99t-99-40q-35 0-65.5 14.5T535-713l-35 41h-40l-35-41q-22-26-53.5-40.5T307-768q-59 0-99 40t-40 99q0 33 13 65.5t47.5 75.5q34.5 43 95 102T480-241Zm0-264Z"/></svg>
+            <p>1.000</p>
+            </div>
+        </div>
+        <div class="movie">
+            <img src="public\img\tenet.jpg" alt="Movie 3">
+            <p class="movie-title">tenet</p>
+            <div class="like-container">
+            <svg xmlns="http://www.w3.org/2000/svg" height="20px" viewBox="0 -960 960 960" width="20px" fill="#EA3323"><path d="m480-144-50-45q-100-89-165-152.5t-102.5-113Q125-504 110.5-545T96-629q0-89 61-150t150-61q49 0 95 21t78 59q32-38 78-59t95-21q89 0 150 61t61 150q0 43-14 83t-51.5 89q-37.5 49-103 113.5T528-187l-48 43Zm0-97q93-83 153-141.5t95.5-102Q764-528 778-562t14-67q0-59-40-99t-99-40q-35 0-65.5 14.5T535-713l-35 41h-40l-35-41q-22-26-53.5-40.5T307-768q-59 0-99 40t-40 99q0 33 13 65.5t47.5 75.5q34.5 43 95 102T480-241Zm0-264Z"/></svg>
+            <p>2.500</p>
+            </div>
+        </div>
+        <div class="movie">
+            <img src="public\img\smile.jpg" alt="Movie 4">
+            <p class="movie-title">Smile</p>
+            <div class="like-container">
+            <svg xmlns="http://www.w3.org/2000/svg" height="20px" viewBox="0 -960 960 960" width="20px" fill="#EA3323"><path d="m480-144-50-45q-100-89-165-152.5t-102.5-113Q125-504 110.5-545T96-629q0-89 61-150t150-61q49 0 95 21t78 59q32-38 78-59t95-21q89 0 150 61t61 150q0 43-14 83t-51.5 89q-37.5 49-103 113.5T528-187l-48 43Zm0-97q93-83 153-141.5t95.5-102Q764-528 778-562t14-67q0-59-40-99t-99-40q-35 0-65.5 14.5T535-713l-35 41h-40l-35-41q-22-26-53.5-40.5T307-768q-59 0-99 40t-40 99q0 33 13 65.5t47.5 75.5q34.5 43 95 102T480-241Zm0-264Z"/></svg>
+            <p>1.100</p>
+            </div>
+        </div>
+        <div class="movie">
+            <img src="public\img\thebatman.jpg" alt="Movie 1">
+            <p class="movie-title">The Batman</p>
+            <div class="like-container">
+            <svg xmlns="http://www.w3.org/2000/svg" height="20px" viewBox="0 -960 960 960" width="20px" fill="#EA3323"><path d="m480-144-50-45q-100-89-165-152.5t-102.5-113Q125-504 110.5-545T96-629q0-89 61-150t150-61q49 0 95 21t78 59q32-38 78-59t95-21q89 0 150 61t61 150q0 43-14 83t-51.5 89q-37.5 49-103 113.5T528-187l-48 43Zm0-97q93-83 153-141.5t95.5-102Q764-528 778-562t14-67q0-59-40-99t-99-40q-35 0-65.5 14.5T535-713l-35 41h-40l-35-41q-22-26-53.5-40.5T307-768q-59 0-99 40t-40 99q0 33 13 65.5t47.5 75.5q34.5 43 95 102T480-241Zm0-264Z"/></svg>
+            <p>1.550</p>
+            </div>
+        </div>
+        <div class="movie">
+            <img src="public\img\talktome.jpg" alt="Movie 2">
             <p class="movie-title">Talk To Me</p>
+            <div class="like-container">
+            <svg xmlns="http://www.w3.org/2000/svg" height="20px" viewBox="0 -960 960 960" width="20px" fill="#EA3323"><path d="m480-144-50-45q-100-89-165-152.5t-102.5-113Q125-504 110.5-545T96-629q0-89 61-150t150-61q49 0 95 21t78 59q32-38 78-59t95-21q89 0 150 61t61 150q0 43-14 83t-51.5 89q-37.5 49-103 113.5T528-187l-48 43Zm0-97q93-83 153-141.5t95.5-102Q764-528 778-562t14-67q0-59-40-99t-99-40q-35 0-65.5 14.5T535-713l-35 41h-40l-35-41q-22-26-53.5-40.5T307-768q-59 0-99 40t-40 99q0 33 13 65.5t47.5 75.5q34.5 43 95 102T480-241Zm0-264Z"/></svg>
+            <p>500</p>
+            </div>
         </div>
         <div class="movie">
-            <img src="public\img\img_film\the_conjuring.jpg" alt="Movie 3">
-            <p class="movie-title">The Conjuring</p>
+            <img src="public\img\soul.jpg" alt="Movie 3">
+            <p class="movie-title">Soul</p>
+            <div class="like-container">
+            <svg xmlns="http://www.w3.org/2000/svg" height="20px" viewBox="0 -960 960 960" width="20px" fill="#EA3323"><path d="m480-144-50-45q-100-89-165-152.5t-102.5-113Q125-504 110.5-545T96-629q0-89 61-150t150-61q49 0 95 21t78 59q32-38 78-59t95-21q89 0 150 61t61 150q0 43-14 83t-51.5 89q-37.5 49-103 113.5T528-187l-48 43Zm0-97q93-83 153-141.5t95.5-102Q764-528 778-562t14-67q0-59-40-99t-99-40q-35 0-65.5 14.5T535-713l-35 41h-40l-35-41q-22-26-53.5-40.5T307-768q-59 0-99 40t-40 99q0 33 13 65.5t47.5 75.5q34.5 43 95 102T480-241Zm0-264Z"/></svg>
+            <p>1.199</p>
+            </div>
         </div>
         <div class="movie">
-            <img src="public\img\img_film\scream.jpg" alt="Movie 4">
-            <p class="movie-title">Scream</p>
+            <img src="public\img\barbie.jpg" alt="Movie 4">
+            <p class="movie-title">Barbie</p>
+            <div class="like-container">
+            <svg xmlns="http://www.w3.org/2000/svg" height="20px" viewBox="0 -960 960 960" width="20px" fill="#EA3323"><path d="m480-144-50-45q-100-89-165-152.5t-102.5-113Q125-504 110.5-545T96-629q0-89 61-150t150-61q49 0 95 21t78 59q32-38 78-59t95-21q89 0 150 61t61 150q0 43-14 83t-51.5 89q-37.5 49-103 113.5T528-187l-48 43Zm0-97q93-83 153-141.5t95.5-102Q764-528 778-562t14-67q0-59-40-99t-99-40q-35 0-65.5 14.5T535-713l-35 41h-40l-35-41q-22-26-53.5-40.5T307-768q-59 0-99 40t-40 99q0 33 13 65.5t47.5 75.5q34.5 43 95 102T480-241Zm0-264Z"/></svg>
+            <p>2.000</p>
+            </div>
         </div>
         <div class="movie">
-            <img src="public\img\img_film\halloween.jpg" alt="Movie 1">
-            <p class="movie-title">Halloween</p>
+            <img src="public\img\avatarthewayofwater.jpg" alt="Movie 3">
+            <p class="movie-title">Avatar</p>
+            <div class="like-container">
+            <svg xmlns="http://www.w3.org/2000/svg" height="20px" viewBox="0 -960 960 960" width="20px" fill="#EA3323"><path d="m480-144-50-45q-100-89-165-152.5t-102.5-113Q125-504 110.5-545T96-629q0-89 61-150t150-61q49 0 95 21t78 59q32-38 78-59t95-21q89 0 150 61t61 150q0 43-14 83t-51.5 89q-37.5 49-103 113.5T528-187l-48 43Zm0-97q93-83 153-141.5t95.5-102Q764-528 778-562t14-67q0-59-40-99t-99-40q-35 0-65.5 14.5T535-713l-35 41h-40l-35-41q-22-26-53.5-40.5T307-768q-59 0-99 40t-40 99q0 33 13 65.5t47.5 75.5q34.5 43 95 102T480-241Zm0-264Z"/></svg>
+            <p>3.000</p>
+            </div>
         </div>
         <div class="movie">
-            <img src="public\img\img_film\talk_to_me.jpg" alt="Movie 2">
-            <p class="movie-title">Talk To Me</p>
+            <img src="public\img\bonesandall.jpg" alt="Movie 4">
+            <p class="movie-title">Bones And All</p>
+            <div class="like-container">
+            <svg xmlns="http://www.w3.org/2000/svg" height="20px" viewBox="0 -960 960 960" width="20px" fill="#EA3323"><path d="m480-144-50-45q-100-89-165-152.5t-102.5-113Q125-504 110.5-545T96-629q0-89 61-150t150-61q49 0 95 21t78 59q32-38 78-59t95-21q89 0 150 61t61 150q0 43-14 83t-51.5 89q-37.5 49-103 113.5T528-187l-48 43Zm0-97q93-83 153-141.5t95.5-102Q764-528 778-562t14-67q0-59-40-99t-99-40q-35 0-65.5 14.5T535-713l-35 41h-40l-35-41q-22-26-53.5-40.5T307-768q-59 0-99 40t-40 99q0 33 13 65.5t47.5 75.5q34.5 43 95 102T480-241Zm0-264Z"/></svg>
+            <p>700</p>
+            </div>
         </div>
         <div class="movie">
-            <img src="public\img\img_film\the_conjuring.jpg" alt="Movie 3">
-            <p class="movie-title">The Conjuring</p>
+            <img src="public\img\themonkey.jpg" alt="Movie 3">
+            <p class="movie-title">The Monkey</p>
+            <div class="like-container">
+            <svg xmlns="http://www.w3.org/2000/svg" height="20px" viewBox="0 -960 960 960" width="20px" fill="#EA3323"><path d="m480-144-50-45q-100-89-165-152.5t-102.5-113Q125-504 110.5-545T96-629q0-89 61-150t150-61q49 0 95 21t78 59q32-38 78-59t95-21q89 0 150 61t61 150q0 43-14 83t-51.5 89q-37.5 49-103 113.5T528-187l-48 43Zm0-97q93-83 153-141.5t95.5-102Q764-528 778-562t14-67q0-59-40-99t-99-40q-35 0-65.5 14.5T535-713l-35 41h-40l-35-41q-22-26-53.5-40.5T307-768q-59 0-99 40t-40 99q0 33 13 65.5t47.5 75.5q34.5 43 95 102T480-241Zm0-264Z"/></svg>
+            <p>600</p>
+            </div>
         </div>
         <div class="movie">
-            <img src="public\img\img_film\scream.jpg" alt="Movie 4">
-            <p class="movie-title">Scream</p>
+            <img src="public\img\gonegirl.jpg" alt="Movie 4">
+            <p class="movie-title">Gone Girl</p>
+            <div class="like-container">
+            <svg xmlns="http://www.w3.org/2000/svg" height="20px" viewBox="0 -960 960 960" width="20px" fill="#EA3323"><path d="m480-144-50-45q-100-89-165-152.5t-102.5-113Q125-504 110.5-545T96-629q0-89 61-150t150-61q49 0 95 21t78 59q32-38 78-59t95-21q89 0 150 61t61 150q0 43-14 83t-51.5 89q-37.5 49-103 113.5T528-187l-48 43Zm0-97q93-83 153-141.5t95.5-102Q764-528 778-562t14-67q0-59-40-99t-99-40q-35 0-65.5 14.5T535-713l-35 41h-40l-35-41q-22-26-53.5-40.5T307-768q-59 0-99 40t-40 99q0 33 13 65.5t47.5 75.5q34.5 43 95 102T480-241Zm0-264Z"/></svg>
+            <p>1.225</p>
+            </div>
         </div>
         <div class="movie">
-            <img src="public\img\img_film\the_conjuring.jpg" alt="Movie 3">
-            <p class="movie-title">The Conjuring</p>
+            <img src="public\img\drive.jpg" alt="Movie 3">
+            <p class="movie-title">Drive</p>
+            <div class="like-container">
+            <svg xmlns="http://www.w3.org/2000/svg" height="20px" viewBox="0 -960 960 960" width="20px" fill="#EA3323"><path d="m480-144-50-45q-100-89-165-152.5t-102.5-113Q125-504 110.5-545T96-629q0-89 61-150t150-61q49 0 95 21t78 59q32-38 78-59t95-21q89 0 150 61t61 150q0 43-14 83t-51.5 89q-37.5 49-103 113.5T528-187l-48 43Zm0-97q93-83 153-141.5t95.5-102Q764-528 778-562t14-67q0-59-40-99t-99-40q-35 0-65.5 14.5T535-713l-35 41h-40l-35-41q-22-26-53.5-40.5T307-768q-59 0-99 40t-40 99q0 33 13 65.5t47.5 75.5q34.5 43 95 102T480-241Zm0-264Z"/></svg>
+            <p>1.250</p>
+            </div>
         </div>
         <div class="movie">
-            <img src="public\img\img_film\scream.jpg" alt="Movie 4">
-            <p class="movie-title">Scream</p>
-        </div>
-        <div class="movie">
-            <img src="public\img\img_film\the_conjuring.jpg" alt="Movie 3">
-            <p class="movie-title">The Conjuring</p>
-        </div>
-        <div class="movie">
-            <img src="public\img\img_film\scream.jpg" alt="Movie 4">
-            <p class="movie-title">Scream</p>
-        </div>
-        <div class="movie">
-            <img src="public\img\img_film\the_conjuring.jpg" alt="Movie 3">
-            <p class="movie-title">The Conjuring</p>
-        </div>
-        <div class="movie">
-            <img src="public\img\img_film\scream.jpg" alt="Movie 4">
-            <p class="movie-title">Scream</p>
+            <img src="public\img\blackswan.jpg" alt="Movie 4">
+            <p class="movie-title">Black Swan</p>
+            <div class="like-container">
+            <svg xmlns="http://www.w3.org/2000/svg" height="20px" viewBox="0 -960 960 960" width="20px" fill="#EA3323"><path d="m480-144-50-45q-100-89-165-152.5t-102.5-113Q125-504 110.5-545T96-629q0-89 61-150t150-61q49 0 95 21t78 59q32-38 78-59t95-21q89 0 150 61t61 150q0 43-14 83t-51.5 89q-37.5 49-103 113.5T528-187l-48 43Zm0-97q93-83 153-141.5t95.5-102Q764-528 778-562t14-67q0-59-40-99t-99-40q-35 0-65.5 14.5T535-713l-35 41h-40l-35-41q-22-26-53.5-40.5T307-768q-59 0-99 40t-40 99q0 33 13 65.5t47.5 75.5q34.5 43 95 102T480-241Zm0-264Z"/></svg>
+            <p>900</p>
+            </div>
         </div>
         
         
@@ -190,9 +358,9 @@
     <div class="rectangle"> <img src="public\img\popcorn.jpg" alt="">
         <p>Notez les films</p></div>
     <div class="rectangle"><svg xmlns="http://www.w3.org/2000/svg" height="48px" viewBox="0 -960 960 960" width="48px" fill="#2c3440"><path d="M480.12-330q70.88 0 120.38-49.62t49.5-120.5q0-70.88-49.62-120.38T479.88-670Q409-670 359.5-620.38T310-499.88q0 70.88 49.62 120.38t120.5 49.5Zm-.36-58q-46.76 0-79.26-32.74-32.5-32.73-32.5-79.5 0-46.76 32.74-79.26 32.73-32.5 79.5-32.5 46.76 0 79.26 32.74 32.5 32.73 32.5 79.5 0 46.76-32.74 79.26-32.73 32.5-79.5 32.5Zm.24 188q-146 0-264-83T40-500q58-134 176-217t264-83q146 0 264 83t176 217q-58 134-176 217t-264 83Zm0-300Zm-.17 240Q601-260 702.5-325.5 804-391 857-500q-53-109-154.33-174.5Q601.34-740 480.17-740T257.5-674.5Q156-609 102-500q54 109 155.33 174.5Q358.66-260 479.83-260Z"/></svg>
-    </div>
+    <p>Watchlist</div>
     <div class="rectangle"><svg xmlns="http://www.w3.org/2000/svg" height="48px" viewBox="0 -960 960 960" width="48px" fill="#2c3440"><path d="M290-620v-60h550v60H290Zm0 170v-60h550v60H290Zm0 170v-60h550v60H290ZM150-620q-12 0-21-9t-9-21.5q0-12.5 9-21t21.5-8.5q12.5 0 21 8.62 8.5 8.63 8.5 21.38 0 12-8.62 21-8.63 9-21.38 9Zm0 170q-12 0-21-9t-9-21.5q0-12.5 9-21t21.5-8.5q12.5 0 21 8.62 8.5 8.63 8.5 21.38 0 12-8.62 21-8.63 9-21.38 9Zm0 170q-12 0-21-9t-9-21.5q0-12.5 9-21t21.5-8.5q12.5 0 21 8.62 8.5 8.63 8.5 21.38 0 12-8.62 21-8.63 9-21.38 9Z"/></svg>
-    <p>Créez des listes de films !</p>
+    <p>Créez des listes de films</p>
 </div>
 
 
@@ -236,6 +404,57 @@
             <p>Noter, partager, découvrer, visionner, échanger...</p>
             
 </div>
+
+
+<section class="section">
+        <div class="movie-gallery h3">
+           <a href="film.php">
+            <h3>Dernières listes de films</h3>
+            <a href="dernièresListesFilms.php"><svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#2c3440"><path d="M440-280h80v-160h160v-80H520v-160h-80v160H280v80h160v160Zm40 200q-83 0-156-31.5T197-197q-54-54-85.5-127T80-480q0-83 31.5-156T197-763q54-54 127-85.5T480-880q83 0 156 31.5T763-763q54 54 85.5 127T880-480q0 83-31.5 156T763-197q-54 54-127 85.5T480-80Zm0-80q134 0 227-93t93-227q0-134-93-227t-227-93q-134 0-227 93t-93 227q0 134 93 227t227 93Zm0-320Z"/></svg>
+            </a>
+    </div>
+    <div class="separator"></div>
+  
+
+<div class="alignement-listes">
+   <a href="ListesFilms.php">
+    <div class="poster">
+    <img src="public\img\companion.jpg" alt="Poster 1">
+    <img src="public\img\themonkey.jpg" alt="Poster 2">
+    <img src="public\img\babygirl.jpg" alt="Poster 3">
+    <img src="public\img\dawnofthedead.jpg" alt="Poster 4">
+    <img src="public\img\mulhollanddrive.jpg" alt="Poster 5">
+      <div class="poster-title">
+        <h3>Titre de la liste</h3>
+        </div>
+     </a>
+        <div class="liste-poster-author">
+        <a href="listUtilisateurs.php">John Doe</a>
+        </div>
+
+
+   <a href="ListesFilms.php">
+      <div class="poster">
+        <img src="public\img\companion.jpg" alt="Poster 1">
+        <img src="public\img\themonkey.jpg" alt="Poster 2">
+        <img src="public\img\babygirl.jpg" alt="Poster 3">
+        <img src="public\img\dawnofthedead.jpg" alt="Poster 4">
+        <img src="public\img\mulhollanddrive.jpg" alt="Poster 5">
+        <div class="poster-title">
+        <h3>Titre de la liste</h3>
+       </div>
+      </a>
+       <div class="liste-poster-author">
+          <a href="listUtilisateurs.php">John Doe</a>
+      </div>
+
+
+   
+
+
+
+</div>
+
 
 
 
