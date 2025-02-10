@@ -1,0 +1,246 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    color:#f2c84b(0, 122, 156);
+}
+
+body{
+    background-color: #14181c;
+}
+
+.main-container {
+    width: 90%; /*  aLrgeur relative */
+    max-width: 1200px; /* Empêche que ce soit trop large */
+    margin: 0 auto; /* Centre horizontalement */
+    padding: 20px; 
+}
+
+
+
+
+.navbar {
+    background-color: #2c3440; 
+    padding: 1.5rem 1.5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0px 4px 9px rgba(0, 0, 0, 0.1); 
+    position:relative;
+    top: 0;
+    z-index: 1000;
+    border-bottom: 1px solid #ffffff;
+    font-family:"Poppins", serif;
+  }
+
+  .nav-link a{
+    color: white;
+}
+
+  .nav-link a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.1rem;
+    font-family: Arial, sans-serif;
+    transition: color 0.3s ease;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+  }
+
+
+
+  .movie-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 50px;
+}
+.movie {
+    text-align: center;
+    max-width: 150px;
+}
+.movie img {
+    width: 50%;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+/* .movie-title {
+    color:white;
+    margin-top: 10px;
+    font-size: 1rem;
+    font-weight: bold;
+} */
+
+
+
+
+.movie-gallery h3 {
+    color:#758290 ;
+    font-family:'Courier New', Courier, monospace ;
+    text-align: left;
+    width: 100%;
+    font-size: 1rem;
+    margin-bottom: 20px; 
+}
+
+
+.separator {
+    width: 80%;
+    height: 1px;
+    background-color: #758290; 
+    margin: 10px auto 20px auto; 
+    border-radius: 5px; 
+}
+
+
+.rectangle-container {
+    display: flex;
+    justify-content:space-around;
+    gap: 5px; 
+    
+}
+
+.rectangle {
+    width: 500px;
+    height: 250px;
+    background-color: #ddeeff;
+    
+   
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    border-radius: 8px;
+    flex-direction: column;
+    
+    
+}
+
+.rectangle-img{
+
+    margin-bottom:10px;
+
+
+}
+
+
+/* .rectangle-container-joinus{
+    display:flex;
+
+
+
+}
+
+
+.rectangle-joinus{
+    width:100%;
+    color:blueviolet;
+    display:flex;
+
+
+
+}*/
+.joinus-banner {
+    width: 100%; 
+    height: 200px; 
+    background-image: url('/img/mulhollanddrivebanner.jpg'); 
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 2rem;
+    font-weight: bold;
+    text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.7); 
+    background-color: #758290;
+    text-align: center;
+    
+}
+
+
+
+
+
+.section {
+    margin-top: 50px;
+    margin-bottom: 50px; 
+}
+
+.poppins-light {
+    font-family: "Poppins", serif;
+    font-weight: 300;
+    font-style: normal;
+    color:white;
+    margin-top: 10px;
+    font-size: 1rem;
+    
+}
+
+
+.movie-card {
+    display: flex;
+    align-items: flex-start; /* Aligne l'image et le texte en haut */
+    gap: 15px; /* Espace entre l'image et les informations du film */
+    border: 1px solid #ddd; 
+    border-radius: 8px; 
+    max-width: 750px; /* Limite la largeur totale */
+    min-height: 150px;
+    padding: 15px;
+    background-color: #fff; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+}
+
+.movie-img {
+    width: 100px; 
+    height: 100px;
+    object-fit: cover; 
+    border-radius: 4px; 
+}
+
+.movie-info {
+    display: flex;
+    flex-direction: column; 
+    justify-content: flex-start;
+}
+
+.movie-title {
+    font-size: 1.3rem;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 10px; 
+}
+
+.movie-review {
+    font-size: 1rem;
+    color: #000000;
+    line-height: 1.4;
+    margin: 0;
+}
+
+.movie-author {
+    font-size: 0.9rem;
+    font-style: italic;
+    color: #666;
+    margin-bottom: 10px; 
+}
+
+  
+
+
+
+.footer {
+    background-color: #2c3440; 
+    padding: 1.5rem 1.5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0px 4px 9px rgba(0, 0, 0, 0.1); 
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+  }
