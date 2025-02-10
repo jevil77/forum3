@@ -41,7 +41,7 @@
         <span class="star">&#9733;</span>
         <span class="star">&#9734;</span>
     </div>
-    <p class="rating-text">Note: 4/5</p> <!-- Affiche la note sous forme de texte -->
+    <p class="rating-text">Note: 4/5</p> 
          
             
             
@@ -58,7 +58,7 @@
         <span class="star">&#9733;</span>
         <span class="star">&#9734;</span>
     </div>
-    <p class="rating-text">Note: 4/5</p> <!-- Affiche la note sous forme de texte -->
+    <p class="rating-text">Note: 4/5</p> 
          
         </div>
         <div class="movie">
@@ -72,7 +72,7 @@
         <span class="star">&#9733;</span>
         <span class="star">&#9734;</span>
     </div>
-    <p class="rating-text">Note: 5/5</p> <!-- Affiche la note sous forme de texte -->
+    <p class="rating-text">Note: 5/5</p> 
          
         </div>
         <div class="movie">
@@ -86,7 +86,7 @@
         <span class="star">&#9733;</span>
         <span class="star">&#9734;</span>
     </div>
-     <p class="rating-text">Note: 4/5</p> <!-- Affiche la note sous forme de texte -->
+     <p class="rating-text">Note: 4/5</p> 
          
         </div>
         <div class="movie">
@@ -100,7 +100,7 @@
         <span class="star">&#9733;</span>
         <span class="star">&#9734;</span>
     </div>
-     <p class="rating-text">Note: 4/5</p> <!-- Affiche la note sous forme de texte -->
+     <p class="rating-text">Note: 4/5</p> 
          
         </div>
         <div class="movie">
@@ -114,7 +114,7 @@
         <span class="star">&#9733;</span>
         <span class="star">&#9733;</span>
     </div>
-     <p class="rating-text">Note: 5/5</p> <!-- Affiche la note sous forme de texte -->
+     <p class="rating-text">Note: 5/5</p> 
          
         </div>
         <div class="movie">
@@ -128,7 +128,7 @@
         <span class="star">&#9733;</span>
         <span class="star">&#9733;</span>
     </div>
-     <p class="rating-text">Note: 5/5</p> <!-- Affiche la note sous forme de texte -->
+     <p class="rating-text">Note: 5/5</p> 
          
         </div>
         <div class="movie">
@@ -142,7 +142,7 @@
         <span class="star">&#9733;</span>
         <span class="star">&#9734;</span>
     </div>
-     <p class="rating-text">Note: 4/5</p> <!-- Affiche la note sous forme de texte -->
+     <p class="rating-text">Note: 4/5</p> 
          
         </div>
         <div class="movie">
@@ -156,7 +156,7 @@
         <span class="star">&#9733;</span>
         <span class="star">&#9733;</span>
     </div>
-     <p class="rating-text">Note: 5/5</p> <!-- Affiche la note sous forme de texte -->
+     <p class="rating-text">Note: 5/5</p> 
          
         </div>
         <div class="movie">
@@ -170,7 +170,7 @@
         <span class="star">&#9733;</span>
         <span class="star">&#9734;</span>
     </div>
-     <p class="rating-text">Note: 4/5</p> <!-- Affiche la note sous forme de texte -->
+     <p class="rating-text">Note: 4/5</p> 
          
         </div>
         <div class="movie">
@@ -184,7 +184,7 @@
         <span class="star">&#9733;</span>
         <span class="star">&#9734;</span>
     </div>
-     <p class="rating-text">Note: 4/5</p> <!-- Affiche la note sous forme de texte -->
+     <p class="rating-text">Note: 4/5</p> 
          
         </div>
         <div class="movie">
@@ -198,7 +198,7 @@
         <span class="star">&#9733;</span>
         <span class="star">&#9734;</span>
     </div>
-     <p class="rating-text">Note: 4/5</p> <!-- Affiche la note sous forme de texte -->
+     <p class="rating-text">Note: 4/5</p> 
          
         </div>
         
