@@ -394,9 +394,9 @@
            <div class="separator"></div>
 
        <div class="movie-card">
-         <img src="public\img\companion.jpg" alt="Affiche du film" class="movie-img">
+         <img src="public\img\gonegirl.jpg" alt="Affiche du film" class="movie-img">
           <div class="movie-info">
-        <div class="movie-title">Companion</div>
+        <div class="movie-title">Gone Girl</div>
         <div class="movie-author">John Doe</div>
         <p class="movie-review">C'est une critique courte du film. Ce film explore des thèmes profonds et propose une excellente performance des acteurs.</p>
     </div>
